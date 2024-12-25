@@ -77,7 +77,7 @@ This project leverages **machine learning and statistical analysis** to predict 
 ## 📧 **Contact and Collaboration:**  
 Feel free to reach out for collaborations or discussions on how data science can drive better healthcare solutions.  
 🌐 **LinkedIn** – www.linkedin.com/in/ahmed-elsayed-2a8208239  
-📩 **Email** – a7madv4d2@gnmail.com
+📩 **Email** – a7madv4d2@gmail.com
 
 ---
 
